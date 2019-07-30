@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxPivot
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t140568)**
+**[[Run Online]](https://codecentral.devexpress.com/t140568/)**
 <!-- run online end -->
 
 
